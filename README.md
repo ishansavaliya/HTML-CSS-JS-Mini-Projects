@@ -164,7 +164,7 @@ This project is open source and available under the [MIT License](LICENSE).
 **Ishan Savaliya**
 
 - GitHub: [@ishansavaliya](https://github.com/ishansavaliya)
-- LinkedIn: [Connect with me](https://linkedin.com/in/ishansavaliya)
+- LinkedIn: [Connect with me]([https://www.linkedin.com/in/iamishansavaliya])
 
 ---
 
